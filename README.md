@@ -39,10 +39,8 @@
 </a>
 &nbsp;
 <a href="https://www.phpmyadmin.net/">
-  <img src="https://img.shields.io/badge/phpMyAdmin-%2343853D.svg?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin">
+  <img src="https://img.shields.io/badge/phpMyAdmin-%2343853D.svg?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin" style="background-color: orange;">
 </a>
-
-
 
 
 &nbsp;
