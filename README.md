@@ -20,8 +20,6 @@
 #### Secondary Stack:
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;  
-[![Scrum Framework](https://img.shields.io/badge/Scrum-Framework-brightgreen?style=for-the-badge&logo=scrum)](https://www.scrum.org/resources/what-is-scrum)&nbsp;
-[![UML Diagram](https://img.shields.io/badge/UML%20Diagram-Modeling-blue.svg?style=for-the-badge)](https://en.wikipedia.org/wiki/Unified_Modeling_Language)&nbsp;
 
 #### Databases:
 
