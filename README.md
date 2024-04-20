@@ -37,6 +37,11 @@
 <a href="https://desktop.github.com/">
   <img src="https://img.shields.io/badge/GitHub%20Desktop-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Desktop">
 </a>
+&nbsp;
+<a href="https://www.phpmyadmin.net/">
+  <img src="https://img.shields.io/badge/phpMyAdmin-%2343853D.svg?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin">
+</a>
+
 
 
 
