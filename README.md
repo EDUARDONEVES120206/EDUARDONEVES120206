@@ -32,7 +32,14 @@
 
 #### Workstation Tools:
 
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)&nbsp;
+<a href="https://code.visualstudio.com/">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
+</a>
+&nbsp;
+<a href="https://desktop.github.com/">
+  <img src="https://img.shields.io/badge/GitHub%20Desktop-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Desktop">
+</a>
+
 
 
 &nbsp;
