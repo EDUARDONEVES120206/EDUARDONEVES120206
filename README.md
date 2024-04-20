@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="" />
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://unsplash.com/pt-br/fotografias/computador-portatil-cinzento-ligado-XJXWbfSo2f0" />
 &nbsp;&nbsp;&nbsp;
 
 
