@@ -19,9 +19,10 @@
 
 #### Secondary Stack:
 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;  
-[![Scrum Framework](https://img.shields.io/badge/Scrum-Framework-brightgreen?style=for-the-badge&logo=scrum)](https://www.scrum.org/resources/what-is-scrum)&nbsp;
-[![UML Diagram](https://img.shields.io/badge/UML%20Diagram-Modeling-blue.svg?style=for-the-badge)](https://en.wikipedia.org/wiki/Unified_Modeling_Language)&nbsp;
+<span class="badge bg-primary"><img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" style="vertical-align: middle;"> Bootstrap</span><br>
+<span class="badge bg-success"><a href="https://www.scrum.org/resources/what-is-scrum" style="color: white;"><img src="https://img.shields.io/badge/Scrum-Framework-brightgreen?style=for-the-badge&logo=scrum" alt="Scrum Framework" style="vertical-align: middle;"> Scrum Framework</a></span><br>
+<span class="badge bg-info"><a href="https://en.wikipedia.org/wiki/Unified_Modeling_Language" style="color: white;"><img src="https://img.shields.io/badge/UML%20Diagram-Modeling-blue.svg?style=for-the-badge" alt="UML Diagram" style="vertical-align: middle;"> UML Diagram</a></span><br>
+
 
 #### Databases:
 
