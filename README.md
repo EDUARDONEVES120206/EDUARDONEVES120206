@@ -41,7 +41,7 @@
 ## Contacts:
 
 <div>
-  <a href="https://wa.me/11998652718">
+  <a href="https://wa.me/5511998652718">
     <img src="https://img.shields.io/badge/WhatsApp-%25C4%2591B9F9.svg?&style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
   &nbsp;
