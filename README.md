@@ -19,7 +19,9 @@
 
 #### Secondary Stack:
 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;  
+[![Scrum Framework](https://img.shields.io/badge/Scrum-Framework-brightgreen?style=for-the-badge&logo=scrum)](https://www.scrum.org/resources/what-is-scrum)&nbsp;
+[![UML Diagram](https://img.shields.io/badge/UML%20Diagram-Modeling-blue.svg?style=for-the-badge)](https://en.wikipedia.org/wiki/Unified_Modeling_Language)&nbsp;
 
 #### Databases:
 
@@ -30,7 +32,7 @@
 
 #### Workstation Tools:
 
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)&nbsp;
 
 
 &nbsp;
