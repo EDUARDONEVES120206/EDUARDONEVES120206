@@ -64,4 +64,4 @@
 
   
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width=100% src="https://img.freepik.com/fotos-premium/fundo-de-textura-de-parede-de-concreto-abstrato-roxo_135595-60766.jpg?w=740"/>
