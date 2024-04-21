@@ -64,4 +64,4 @@
 
   
   
-<img width=100% src="https://img.freepik.com/fotos-premium/fundo-de-textura-de-parede-de-concreto-abstrato-roxo_135595-60766.jpg?w=100"/>
+<img width=100% src="https://img.freepik.com/psd-gratuitas/bordas-abstratas-gradientes_23-2150602079.jpg?t=st=1713658253~exp=1713661853~hmac=5ee53ada40ac718b4fd2092486312c9e3093e0feb45f98e282e66800f0003dee&w=740"/>
