@@ -1,7 +1,9 @@
-<img src="https://img.freepik.com/fotos-gratis/plano-de-fundo-de-programacao-com-pessoa-trabalhando-com-codigos-no-computador_23-2150010125.jpg?t=st=1713657190~exp=1713660790~hmac=5a016bf3c02177b9a9c147c302669e28f96283f26beb93c023ac6a016b43b6b3&w=740" alt="Descrição da imagem">
-
-
-<p align="center">I'm passionate about exploring technology to tackle intriguing challenges. As an amateur developer, I find joy in unraveling puzzles through creative solutions. With a growing interest in both technical skills and effective collaboration, I'm learning about team dynamics, basic project coordination, software exploration, and gradual improvement. My approach integrates beginner-friendly practices, ensuring a steady learning curve and a passion for progress. 🚀</p>&nbsp;
+<div style="position: relative; text-align: center;">
+  <img src="https://img.freepik.com/fotos-gratis/plano-de-fundo-de-programacao-com-pessoa-trabalhando-com-codigos-no-computador_23-2150010125.jpg?t=st=1713657190~exp=1713660790~hmac=5a016bf3c02177b9a9c147c302669e28f96283f26beb93c023ac6a016b43b6b3&w=740" alt="Descrição da imagem" style="width: 100%; filter: brightness(50%);">
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white;">
+    <p>I'm passionate about exploring technology to tackle intriguing challenges. As an amateur developer, I find joy in unraveling puzzles through creative solutions. With a growing interest in both technical skills and effective collaboration, I'm learning about team dynamics, basic project coordination, software exploration, and gradual improvement. My approach integrates beginner-friendly practices, ensuring a steady learning curve and a passion for progress. 🚀</p>
+  </div>
+</div>
 
  &nbsp;
  &nbsp;
