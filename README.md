@@ -1,6 +1,11 @@
 <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white;">
   <p>I'm passionate about exploring technology to tackle intriguing challenges. As an amateur developer, I find joy in unraveling puzzles through creative solutions. With a growing interest in both technical skills and effective collaboration, I'm learning about team dynamics, basic project coordination, software exploration, and gradual improvement. My approach integrates beginner-friendly practices, ensuring a steady learning curve and a passion for progress. 🚀</p>
   </div>
+<div align="center">
+  <a href="https://github.com/EDUARDONEVES120206"></a>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=EDUARDONEVES120206o&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EDUARDONEVES120206&layout=compact&langs_count=7&theme=dracula"/>   
+</div>
 
 
  &nbsp;
