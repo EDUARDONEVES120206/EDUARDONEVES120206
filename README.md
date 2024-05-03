@@ -3,7 +3,8 @@
   </div>
 <div align="center">
   
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EDUARDONEVES120206&layout=compact&langs_count=7&theme="/>   
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EDUARDONEVES120206&layout=compact&langs_count=7&theme=" alt="Estatísticas de Linguagens do GitHub de EDUARDONEVES120206">
+  
 </div>
 
 
