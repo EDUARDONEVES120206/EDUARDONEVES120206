@@ -1,3 +1,9 @@
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=skyblue&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Eduardo;I'm+18+years+old;I'm+a+Software+Developer;I'm+from+Brazil;Welcome%3A)](https://git.io/typing-svg)
+<br><br>
+
+
 <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white;">
   <p>I'm passionate about exploring technology to tackle intriguing challenges. As an amateur developer, I find joy in unraveling puzzles through creative solutions. With a growing interest in both technical skills and effective collaboration, I'm learning about team dynamics, basic project coordination, software exploration, and gradual improvement. My approach integrates beginner-friendly practices, ensuring a steady learning curve and a passion for progress. 🚀</p>
   </div>
